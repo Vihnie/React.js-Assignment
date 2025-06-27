@@ -4,13 +4,18 @@
   "requires": true,
   "packages": {},
   "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
     "autoprefixer": "^10.4.21",
+    "jest": "^30.0.3",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "vibe": "^0.9.4",
+    "vite": "^7.0.0"
   },
   "version": "1.0.0",
   "description": "React.js-Assignment\r  This project demonstrates how to build modern web interfaces using reusable UI components, external API integration, and Tailwind CSS for styling.",
